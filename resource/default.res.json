@@ -1,0 +1,150 @@
+{
+	"groups": [
+		{
+			"keys": "bg_jpg,egret_icon_png,description_json,animation_png,animation_json,background1_png,NPC2_png,emoji1_png,emoji2_png,NPC1_png,taskpanel_png,zb6_png,wyz_jpg,zb1_png,zb2_png,zb3_png,zb4_png,zb5_png,avater_png,packagepanel_png,rolepanel_png,packagebutton_png,monster_png,reward_png,newParticle_png,newParticle_json,gameover_png,dragon_png",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"name": "bg_jpg",
+			"type": "image",
+			"url": "assets/bg.jpg"
+		},
+		{
+			"name": "egret_icon_png",
+			"type": "image",
+			"url": "assets/egret_icon.png"
+		},
+		{
+			"name": "description_json",
+			"type": "json",
+			"url": "config/description.json"
+		},
+		{
+			"name": "animation_png",
+			"type": "image",
+			"url": "assets/animation.png"
+		},
+		{
+			"name": "animation_json",
+			"type": "json",
+			"url": "animation.json"
+		},
+		{
+			"name": "background1_png",
+			"type": "image",
+			"url": "assets/background1.png"
+		},
+		{
+			"name": "NPC2_png",
+			"type": "image",
+			"url": "assets/NPC2.png"
+		},
+		{
+			"name": "emoji1_png",
+			"type": "image",
+			"url": "assets/emoji1.png"
+		},
+		{
+			"name": "emoji2_png",
+			"type": "image",
+			"url": "assets/emoji2.png"
+		},
+		{
+			"name": "NPC1_png",
+			"type": "image",
+			"url": "assets/NPC1.png"
+		},
+		{
+			"name": "taskpanel_png",
+			"type": "image",
+			"url": "assets/taskpanel.png"
+		},
+		{
+			"name": "zb6_png",
+			"type": "image",
+			"url": "assets/zb6.png"
+		},
+		{
+			"name": "wyz_jpg",
+			"type": "image",
+			"url": "assets/wyz.jpg"
+		},
+		{
+			"name": "zb1_png",
+			"type": "image",
+			"url": "assets/zb1.png"
+		},
+		{
+			"name": "zb2_png",
+			"type": "image",
+			"url": "assets/zb2.png"
+		},
+		{
+			"name": "zb3_png",
+			"type": "image",
+			"url": "assets/zb3.png"
+		},
+		{
+			"name": "zb4_png",
+			"type": "image",
+			"url": "assets/zb4.png"
+		},
+		{
+			"name": "zb5_png",
+			"type": "image",
+			"url": "assets/zb5.png"
+		},
+		{
+			"name": "avater_png",
+			"type": "image",
+			"url": "assets/avater.png"
+		},
+		{
+			"name": "packagepanel_png",
+			"type": "image",
+			"url": "assets/packagepanel.png"
+		},
+		{
+			"name": "rolepanel_png",
+			"type": "image",
+			"url": "assets/rolepanel.png"
+		},
+		{
+			"name": "packagebutton_png",
+			"type": "image",
+			"url": "assets/packagebutton.png"
+		},
+		{
+			"name": "monster_png",
+			"type": "image",
+			"url": "assets/monster.png"
+		},
+		{
+			"name": "reward_png",
+			"type": "image",
+			"url": "assets/reward.png"
+		},
+		{
+			"name": "newParticle_png",
+			"type": "image",
+			"url": "assets/newParticle.png"
+		},
+		{
+			"name": "newParticle_json",
+			"type": "json",
+			"url": "newParticle.json"
+		},
+		{
+			"name": "gameover_png",
+			"type": "image",
+			"url": "assets/gameover.png"
+		},
+		{
+			"name": "dragon_png",
+			"type": "image",
+			"url": "assets/dragon.png"
+		}
+	]
+}
